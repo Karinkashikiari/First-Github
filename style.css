@@ -1,6 +1,9 @@
-.font{
-    background-color: blueviolet;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 55%;
-    border: 1px red dotted;
+.container{
+    width: 80%;
+    margin: auto;
+}
+.categories{
+    border: 25px dotted greenyellow;
+    padding:10px;
+    border-radius:15px;
 }
