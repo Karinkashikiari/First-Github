@@ -3,12 +3,13 @@ a{
     color: black;
 }
 
-a:hover{
-    color:green;
-}
 
 a:visited{
     color:purple;
+}
+
+a:hover{
+    color:green;
 }
 
 a:active{
