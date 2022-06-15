@@ -1,3 +1,20 @@
+a{
+    text-decoration:;
+    color: black;
+}
+
+a:hover{
+    color:green;
+}
+
+a:visited{
+    color:yellow;
+}
+
+a:active{
+    color:red;
+}
+
 .doc{
     margin:0px;
 }
@@ -10,4 +27,14 @@
     border: 25px dotted greenyellow;
     padding:10px;
     border-radius:15px;
+    float:left;
 }
+
+body{
+    border: 1px black;
+}
+
+img}float:right;}
+
+
+
